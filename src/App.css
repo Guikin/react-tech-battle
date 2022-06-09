@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 15rem;
+}
+
+.techs{
+  display:flex
+}
+
+img{
+  height: 500px;
+  margin: 0px 8rem;
+}
+button{
+  display:block;
+  width: 20%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  margin: auto;
+  margin-top: 1.2rem;
+}
